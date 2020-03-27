@@ -14,7 +14,7 @@
         "outputPath": "C:\\Users\\cyruz\\Documents\\Programacao\\Exercism\\FSharp\\hello-world\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\cyruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
