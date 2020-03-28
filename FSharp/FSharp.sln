@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HelloWorld", "hello-world\HelloWorld.fsproj", "{E213D384-E372-4D4B-9E87-84D0996E2554}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TwoFer", "two-fer\TwoFer.fsproj", "{4B06536A-9BE6-4C40-9198-861CBB72B5FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{E213D384-E372-4D4B-9E87-84D0996E2554}.Release|x64.Build.0 = Release|Any CPU
 		{E213D384-E372-4D4B-9E87-84D0996E2554}.Release|x86.ActiveCfg = Release|Any CPU
 		{E213D384-E372-4D4B-9E87-84D0996E2554}.Release|x86.Build.0 = Release|Any CPU
+		{4B06536A-9BE6-4C40-9198-861CBB72B5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B06536A-9BE6-4C40-9198-861CBB72B5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B06536A-9BE6-4C40-9198-861CBB72B5FF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4B06536A-9BE6-4C40-9198-861CBB72B5FF}.Debug|x64.Build.0 = Debug|Any CPU
+		{4B06536A-9BE6-4C40-9198-861CBB72B5FF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4B06536A-9BE6-4C40-9198-861CBB72B5FF}.Debug|x86.Build.0 = Debug|Any CPU
+		{4B06536A-9BE6-4C40-9198-861CBB72B5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B06536A-9BE6-4C40-9198-861CBB72B5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B06536A-9BE6-4C40-9198-861CBB72B5FF}.Release|x64.ActiveCfg = Release|Any CPU
+		{4B06536A-9BE6-4C40-9198-861CBB72B5FF}.Release|x64.Build.0 = Release|Any CPU
+		{4B06536A-9BE6-4C40-9198-861CBB72B5FF}.Release|x86.ActiveCfg = Release|Any CPU
+		{4B06536A-9BE6-4C40-9198-861CBB72B5FF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
