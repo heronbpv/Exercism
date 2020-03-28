@@ -1,13 +1,8 @@
 ﻿module Leap
 
 let leapYear (year: int): bool =
-    if ((year % 4) = 0) then
-        if ((year % 100) = 0) then
-            if ((year % 400) = 0) then
-                true
-             else
-                 false
-        else
-            true
-    else
-        false
+    let ``Is Divisible by 4`` = (year % 4) = 0
+    let ``Is Divisible by 100`` = (year % 100) = 0
+    let ``Is Divisible by 400`` = (year % 400) = 0
+    (``Is Divisible by 4`` &&  not ``Is Divisible by 100``)
+    || (``Is Divisible by 4`` && ``Is Divisible by 100`` && ``Is Divisible by 400``)
