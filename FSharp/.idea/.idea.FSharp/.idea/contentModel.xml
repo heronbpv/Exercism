@@ -18,6 +18,13 @@
         <e p="obj" t="ExcludeRecursive" />
       </e>
       <e p="packages" t="ExcludeRecursive" />
+      <e p="two-fer" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="TwoFer.fs" t="Include" />
+        <e p="TwoFer.fsproj" t="IncludeRecursive" />
+        <e p="TwoFerTests.fs" t="Include" />
+      </e>
     </e>
   </component>
 </project>
