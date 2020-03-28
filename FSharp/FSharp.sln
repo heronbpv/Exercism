@@ -7,6 +7,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HelloWorld", "hello-world\H
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TwoFer", "two-fer\TwoFer.fsproj", "{4B06536A-9BE6-4C40-9198-861CBB72B5FF}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Leap", "leap\Leap.fsproj", "{5420D0D9-6EA3-4289-A740-41B8DB7A3977}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{4B06536A-9BE6-4C40-9198-861CBB72B5FF}.Release|x64.Build.0 = Release|Any CPU
 		{4B06536A-9BE6-4C40-9198-861CBB72B5FF}.Release|x86.ActiveCfg = Release|Any CPU
 		{4B06536A-9BE6-4C40-9198-861CBB72B5FF}.Release|x86.Build.0 = Release|Any CPU
+		{5420D0D9-6EA3-4289-A740-41B8DB7A3977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5420D0D9-6EA3-4289-A740-41B8DB7A3977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5420D0D9-6EA3-4289-A740-41B8DB7A3977}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5420D0D9-6EA3-4289-A740-41B8DB7A3977}.Debug|x64.Build.0 = Debug|Any CPU
+		{5420D0D9-6EA3-4289-A740-41B8DB7A3977}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5420D0D9-6EA3-4289-A740-41B8DB7A3977}.Debug|x86.Build.0 = Debug|Any CPU
+		{5420D0D9-6EA3-4289-A740-41B8DB7A3977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5420D0D9-6EA3-4289-A740-41B8DB7A3977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5420D0D9-6EA3-4289-A740-41B8DB7A3977}.Release|x64.ActiveCfg = Release|Any CPU
+		{5420D0D9-6EA3-4289-A740-41B8DB7A3977}.Release|x64.Build.0 = Release|Any CPU
+		{5420D0D9-6EA3-4289-A740-41B8DB7A3977}.Release|x86.ActiveCfg = Release|Any CPU
+		{5420D0D9-6EA3-4289-A740-41B8DB7A3977}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
