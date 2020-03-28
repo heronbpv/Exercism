@@ -9,6 +9,7 @@
   <ItemGroup>
     <Compile Include="Leap.fs" />
     <Compile Include="LeapTests.fs" />
+    <None Include="Scratchpad.fsx" />
   </ItemGroup>
 
   <ItemGroup>

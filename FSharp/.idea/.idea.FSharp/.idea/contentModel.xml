@@ -23,6 +23,7 @@
         <e p="Leap.fsproj" t="IncludeRecursive" />
         <e p="LeapTests.fs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
+        <e p="Scratchpad.fsx" t="Include" />
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="two-fer" t="IncludeRecursive">
